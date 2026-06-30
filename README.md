@@ -23,4 +23,16 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Hash Table
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## String
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
