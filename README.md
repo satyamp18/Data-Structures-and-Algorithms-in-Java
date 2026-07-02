@@ -27,14 +27,17 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Breadth-First Search
 |  |
