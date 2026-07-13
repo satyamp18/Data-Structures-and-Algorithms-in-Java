@@ -92,4 +92,8 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
