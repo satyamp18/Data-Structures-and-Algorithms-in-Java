@@ -9,6 +9,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0029-divide-two-integers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0029-divide-two-integers) |
 | [0273-integer-to-english-words](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0273-integer-to-english-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -22,6 +23,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [1331-rank-transform-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Greedy
 |  |
@@ -96,4 +98,12 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1291-sequential-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
