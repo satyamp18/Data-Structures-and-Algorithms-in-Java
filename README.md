@@ -10,6 +10,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0273-integer-to-english-words](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0273-integer-to-english-words) |
 | [0458-poor-pigs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0458-poor-pigs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -27,6 +28,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [1288-remove-covered-intervals](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -118,6 +120,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
