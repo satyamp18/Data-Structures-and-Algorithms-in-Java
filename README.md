@@ -140,4 +140,16 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0561-array-partition) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
