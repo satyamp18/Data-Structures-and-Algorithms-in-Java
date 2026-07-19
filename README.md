@@ -38,6 +38,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0561-array-partition](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -61,6 +62,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0273-integer-to-english-words](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0273-integer-to-english-words) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -144,6 +146,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0232-implement-queue-using-stacks) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
 | ------- |
@@ -152,4 +155,8 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
