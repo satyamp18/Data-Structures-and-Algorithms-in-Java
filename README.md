@@ -28,6 +28,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0561-array-partition](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
+| [1260-shift-2d-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -92,6 +93,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -143,6 +145,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
