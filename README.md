@@ -25,6 +25,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0053-maximum-subarray) |
 | [0149-max-points-on-a-line](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
@@ -135,6 +136,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0053-maximum-subarray) |
 | [0458-poor-pigs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0458-poor-pigs) |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -183,4 +185,8 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0149-max-points-on-a-line) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
