@@ -29,6 +29,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0054-spiral-matrix) |
 | [0149-max-points-on-a-line](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
@@ -116,6 +117,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -174,6 +176,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
