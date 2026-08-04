@@ -14,6 +14,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0382-linked-list-random-node](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0382-linked-list-random-node) |
 | [0458-poor-pigs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
+| [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
@@ -43,6 +44,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
+| [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
@@ -78,6 +80,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
@@ -109,6 +112,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0005-longest-palindromic-substring) |
 | [0273-integer-to-english-words](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
