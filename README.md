@@ -175,6 +175,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
@@ -229,6 +230,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0232-implement-queue-using-stacks) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
@@ -277,4 +279,12 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0382-linked-list-random-node) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
