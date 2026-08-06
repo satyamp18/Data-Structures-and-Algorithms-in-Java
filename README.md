@@ -176,6 +176,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3310-remove-methods-from-project) |
@@ -284,9 +285,11 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
