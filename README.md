@@ -17,6 +17,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -52,6 +53,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0867-transpose-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
@@ -202,6 +204,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0486-predict-the-winner](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -269,14 +272,17 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0486-predict-the-winner](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
@@ -304,4 +310,8 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
