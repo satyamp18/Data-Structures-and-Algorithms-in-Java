@@ -19,6 +19,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0877-stone-game](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -206,6 +207,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0877-stone-game](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -274,16 +276,19 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0877-stone-game](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
 ## Linked List
 |  |
 | ------- |
@@ -314,4 +319,12 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
