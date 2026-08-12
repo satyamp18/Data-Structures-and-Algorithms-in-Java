@@ -171,6 +171,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0203-remove-linked-list-elements) |
 | [0273-integer-to-english-words](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 ## Binary Search
@@ -295,6 +296,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0203-remove-linked-list-elements) |
 | [0382-linked-list-random-node](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0382-linked-list-random-node) |
 ## Reservoir Sampling
 |  |
