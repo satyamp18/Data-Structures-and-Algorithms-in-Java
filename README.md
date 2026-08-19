@@ -37,6 +37,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0029-divide-two-integers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
+| [1386-cinema-seat-allocation](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1386-cinema-seat-allocation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Array
@@ -61,6 +62,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [1260-shift-2d-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -83,6 +85,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0561-array-partition](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -118,6 +121,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
