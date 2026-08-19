@@ -47,6 +47,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0054-spiral-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0054-spiral-matrix) |
 | [0149-max-points-on-a-line](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -153,6 +154,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0239-sliding-window-maximum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -173,6 +175,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -283,6 +286,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -367,4 +371,12 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
