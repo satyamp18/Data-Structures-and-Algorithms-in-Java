@@ -90,6 +90,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -148,6 +149,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [3471-find-the-largest-almost-missing-integer](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3731-find-missing-elements) |
 ## String
 |  |
