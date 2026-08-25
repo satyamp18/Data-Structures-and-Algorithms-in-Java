@@ -142,6 +142,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0697-degree-of-an-array) |
 | [0811-subdomain-visit-count](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0811-subdomain-visit-count) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1331-rank-transform-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1386-cinema-seat-allocation) |
@@ -164,6 +165,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0811-subdomain-visit-count](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0811-subdomain-visit-count) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -309,6 +311,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0347-top-k-frequent-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0561-array-partition) |
 | [0811-subdomain-visit-count](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0811-subdomain-visit-count) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2029-stone-game-ix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
