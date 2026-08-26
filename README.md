@@ -250,6 +250,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
 | [2685-count-the-number-of-complete-components](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3310-remove-methods-from-project) |
@@ -325,6 +326,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0143-reorder-list](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -396,11 +398,13 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0145-binary-tree-postorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
