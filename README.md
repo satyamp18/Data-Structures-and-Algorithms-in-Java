@@ -472,4 +472,8 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0543-diameter-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
