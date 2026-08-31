@@ -399,6 +399,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0143-reorder-list](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0203-remove-linked-list-elements) |
 | [0382-linked-list-random-node](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0382-linked-list-random-node) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Reservoir Sampling
 |  |
 | ------- |
