@@ -56,6 +56,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0239-sliding-window-maximum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0312-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0312-burst-balloons) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
@@ -246,6 +247,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -369,6 +371,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0053-maximum-subarray) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0347-top-k-frequent-elements) |
 ## Game Theory
 |  |
@@ -447,10 +450,12 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Monotonic Queue
 |  |
@@ -496,4 +501,16 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
