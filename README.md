@@ -10,6 +10,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0149-max-points-on-a-line](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0343-integer-break) |
 | [0382-linked-list-random-node](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0382-linked-list-random-node) |
 | [0458-poor-pigs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0458-poor-pigs) |
@@ -199,6 +200,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
 | [2685-count-the-number-of-complete-components](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -278,6 +280,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0005-longest-palindromic-substring](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0053-maximum-subarray) |
 | [0221-maximal-square](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0312-burst-balloons) |
 | [0343-integer-break](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0343-integer-break) |
 | [0458-poor-pigs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0458-poor-pigs) |
@@ -485,4 +488,12 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0183-customers-who-never-order) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
