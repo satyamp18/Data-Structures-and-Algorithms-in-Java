@@ -21,6 +21,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2029-stone-game-ix) |
@@ -81,6 +82,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [1386-cinema-seat-allocation](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -294,6 +296,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -381,6 +384,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2029-stone-game-ix) |
 ## Minimax
