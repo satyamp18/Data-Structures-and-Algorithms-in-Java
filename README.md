@@ -61,6 +61,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0312-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0332-reconstruct-itinerary](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
@@ -131,6 +132,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0217-contains-duplicate](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
+| [0332-reconstruct-itinerary](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -180,6 +182,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0005-longest-palindromic-substring](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0005-longest-palindromic-substring) |
 | [0273-integer-to-english-words](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0316-remove-duplicate-letters) |
+| [0332-reconstruct-itinerary](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
 | [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -223,6 +226,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Graph Theory
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
 | [2685-count-the-number-of-complete-components](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -232,6 +236,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0239-sliding-window-maximum) |
+| [0332-reconstruct-itinerary](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -280,6 +285,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0226-invert-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0543-diameter-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
@@ -537,4 +543,16 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
