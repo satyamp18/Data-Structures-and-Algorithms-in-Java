@@ -102,6 +102,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -209,6 +210,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -282,6 +284,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0888-fair-candy-swap](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0888-fair-candy-swap) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -496,6 +499,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Ordered Set
 |  |
 | ------- |
