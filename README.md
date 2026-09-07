@@ -204,6 +204,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0811-subdomain-visit-count](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0811-subdomain-visit-count) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0940-distinct-subsequences-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1927-sum-game) |
@@ -336,6 +337,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0877-stone-game](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1402-reducing-dishes](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
