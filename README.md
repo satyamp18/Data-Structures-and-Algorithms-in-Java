@@ -555,6 +555,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0183-customers-who-never-order) |
 ## Knapsack Problem
 |  |
