@@ -83,6 +83,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0697-degree-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0697-degree-of-an-array) |
 | [0811-subdomain-visit-count](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0811-subdomain-visit-count) |
+| [0835-image-overlap](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0888-fair-candy-swap) |
@@ -275,6 +276,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0054-spiral-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0054-spiral-matrix) |
 | [0221-maximal-square](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0835-image-overlap](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
