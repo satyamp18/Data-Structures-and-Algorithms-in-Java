@@ -16,6 +16,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0458-poor-pigs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
+| [0587-erect-the-fence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
@@ -80,6 +81,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [0546-remove-boxes](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0546-remove-boxes) |
 | [0561-array-partition](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0561-array-partition) |
+| [0587-erect-the-fence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0587-erect-the-fence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
@@ -458,6 +460,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0149-max-points-on-a-line) |
+| [0587-erect-the-fence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0587-erect-the-fence) |
 | [0836-rectangle-overlap](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Divide and Conquer
@@ -645,4 +648,12 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0208-implement-trie-prefix-tree) |
+## Convex Hull
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0587-erect-the-fence) |
+## Polygons
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
