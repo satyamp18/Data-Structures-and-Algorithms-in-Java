@@ -172,6 +172,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0628-maximum-product-of-three-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0888-fair-candy-swap](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0888-fair-candy-swap) |
+| [1096-brace-expansion-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1402-reducing-dishes) |
@@ -199,6 +200,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0811-subdomain-visit-count](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0811-subdomain-visit-count) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0888-fair-candy-swap) |
+| [1096-brace-expansion-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1386-cinema-seat-allocation) |
@@ -235,6 +237,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0884-uncommon-words-from-two-sentences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0940-distinct-subsequences-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1927-sum-game) |
@@ -273,6 +276,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0226-invert-binary-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
+| [1096-brace-expansion-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3310-remove-methods-from-project) |
@@ -453,6 +457,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0316-remove-duplicate-letters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1096-brace-expansion-ii) |
 ## Design
 |  |
 | ------- |
@@ -551,6 +556,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
