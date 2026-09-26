@@ -276,6 +276,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
@@ -354,6 +355,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0129-sum-root-to-leaf-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0226-invert-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
@@ -542,6 +544,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0129-sum-root-to-leaf-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -553,6 +556,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0129-sum-root-to-leaf-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
