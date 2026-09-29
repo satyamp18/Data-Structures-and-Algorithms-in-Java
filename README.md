@@ -83,6 +83,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0495-teemo-attacking) |
+| [0500-keyboard-row](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0500-keyboard-row) |
 | [0517-super-washing-machines](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0517-super-washing-machines) |
 | [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [0546-remove-boxes](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0546-remove-boxes) |
@@ -201,6 +202,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0217-contains-duplicate](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0347-top-k-frequent-elements) |
+| [0500-keyboard-row](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0697-degree-of-an-array) |
 | [0811-subdomain-visit-count](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0811-subdomain-visit-count) |
@@ -239,6 +241,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0394-decode-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0811-subdomain-visit-count](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0811-subdomain-visit-count) |
