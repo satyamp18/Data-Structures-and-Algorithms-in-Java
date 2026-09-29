@@ -7,6 +7,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0029-divide-two-integers) |
+| [0096-unique-binary-search-trees](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0273-integer-to-english-words) |
@@ -386,6 +387,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0115-distinct-subsequences) |
 | [0221-maximal-square](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
@@ -551,6 +553,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -563,6 +566,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -700,4 +704,8 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
