@@ -73,6 +73,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0221-maximal-square](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
+| [0289-game-of-life](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0289-game-of-life) |
 | [0312-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0332-reconstruct-itinerary](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0332-reconstruct-itinerary) |
@@ -315,6 +316,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0054-spiral-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0054-spiral-matrix) |
 | [0221-maximal-square](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0867-transpose-matrix) |
@@ -444,6 +446,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0495-teemo-attacking) |
 | [0867-transpose-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0867-transpose-matrix) |
