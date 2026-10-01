@@ -61,6 +61,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Array
@@ -133,6 +134,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -166,6 +168,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
@@ -191,6 +194,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -310,6 +314,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -362,6 +367,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -425,6 +431,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3524-find-x-value-of-array-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -451,6 +458,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0234-palindrome-linked-list](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0234-palindrome-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
