@@ -47,6 +47,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3871-count-commas-in-range-ii) |
@@ -280,6 +281,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -616,6 +618,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [1872-stone-game-viii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3312-sorted-gcd-pair-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3904-smallest-stable-index-ii) |
 ## Nim Game
