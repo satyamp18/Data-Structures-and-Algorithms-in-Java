@@ -92,6 +92,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0546-remove-boxes](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0546-remove-boxes) |
 | [0561-array-partition](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0561-array-partition) |
 | [0587-erect-the-fence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0587-erect-the-fence) |
+| [0594-longest-harmonious-subsequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
@@ -182,6 +183,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0888-fair-candy-swap](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0888-fair-candy-swap) |
@@ -210,6 +212,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0500-keyboard-row) |
+| [0594-longest-harmonious-subsequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0697-degree-of-an-array) |
 | [0811-subdomain-visit-count](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0811-subdomain-visit-count) |
@@ -288,6 +291,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0239-sliding-window-maximum) |
+| [0594-longest-harmonious-subsequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -482,6 +486,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0811-subdomain-visit-count](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0811-subdomain-visit-count) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2029-stone-game-ix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2029-stone-game-ix) |
