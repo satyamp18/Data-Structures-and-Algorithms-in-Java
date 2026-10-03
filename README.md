@@ -242,6 +242,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0208-implement-trie-prefix-tree) |
 | [0273-integer-to-english-words](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0273-integer-to-english-words) |
@@ -405,6 +406,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0115-distinct-subsequences) |
@@ -492,6 +494,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0145-binary-tree-postorder-traversal) |
@@ -731,6 +734,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
