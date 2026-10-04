@@ -156,6 +156,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0517-super-washing-machines](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1402-reducing-dishes) |
@@ -257,6 +258,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0500-keyboard-row](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [0811-subdomain-visit-count](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0811-subdomain-visit-count) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0940-distinct-subsequences-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0940-distinct-subsequences-ii) |
@@ -422,6 +424,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0486-predict-the-winner](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0546-remove-boxes](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0546-remove-boxes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0877-stone-game](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0940-distinct-subsequences-ii) |
@@ -507,6 +510,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0234-palindrome-linked-list](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -740,6 +744,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0020-valid-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
