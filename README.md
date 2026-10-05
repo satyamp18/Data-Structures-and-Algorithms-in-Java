@@ -260,6 +260,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [0811-subdomain-visit-count](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0811-subdomain-visit-count) |
+| [0856-score-of-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0940-distinct-subsequences-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -511,6 +512,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0316-remove-duplicate-letters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -745,6 +747,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0020-valid-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
