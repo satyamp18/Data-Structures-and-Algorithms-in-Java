@@ -86,6 +86,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0347-top-k-frequent-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
+| [0406-queue-reconstruction-by-height](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0495-teemo-attacking) |
@@ -199,6 +200,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0332-reconstruct-itinerary](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0406-queue-reconstruction-by-height](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0561-array-partition) |
@@ -692,6 +694,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0406-queue-reconstruction-by-height](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0406-queue-reconstruction-by-height) |
 | [0699-falling-squares](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0699-falling-squares) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -754,6 +757,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0406-queue-reconstruction-by-height](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0406-queue-reconstruction-by-height) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Merge Sort
