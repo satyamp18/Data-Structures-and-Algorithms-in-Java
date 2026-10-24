@@ -292,6 +292,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0412-fizz-buzz](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0500-keyboard-row) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0678-valid-parenthesis-string) |
