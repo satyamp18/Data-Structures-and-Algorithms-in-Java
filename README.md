@@ -12,6 +12,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0282-expression-add-operators) |
 | [0343-integer-break](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0343-integer-break) |
 | [0382-linked-list-random-node](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0412-fizz-buzz) |
@@ -288,6 +289,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0115-distinct-subsequences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0208-implement-trie-prefix-tree) |
 | [0273-integer-to-english-words](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0332-reconstruct-itinerary) |
 | [0394-decode-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0394-decode-string) |
@@ -689,6 +691,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Backtracking
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
