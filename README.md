@@ -92,6 +92,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0406-queue-reconstruction-by-height](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0500-keyboard-row) |
@@ -481,6 +482,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0343-integer-break](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0343-integer-break) |
 | [0458-poor-pigs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0494-target-sum) |
 | [0546-remove-boxes](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0546-remove-boxes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0678-valid-parenthesis-string) |
@@ -687,6 +689,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
@@ -770,6 +773,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
+| [0494-target-sum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -848,4 +852,8 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
