@@ -92,6 +92,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0455-assign-cookies](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0495-teemo-attacking) |
@@ -177,6 +178,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0316-remove-duplicate-letters) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0455-assign-cookies](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0455-assign-cookies) |
 | [0517-super-washing-machines](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
@@ -212,6 +214,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0455-assign-cookies](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0594-longest-harmonious-subsequence) |
@@ -532,6 +535,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0005-longest-palindromic-substring](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0005-longest-palindromic-substring) |
 | [0143-reorder-list](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0455-assign-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -860,4 +864,8 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0494-target-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
