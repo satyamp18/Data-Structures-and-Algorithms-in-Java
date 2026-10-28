@@ -782,6 +782,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0183-customers-who-never-order](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0596-classes-with-at-least-5-students) |
 ## Knapsack Problem
 |  |
 | ------- |
