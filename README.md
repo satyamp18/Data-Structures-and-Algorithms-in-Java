@@ -433,6 +433,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0374-guess-number-higher-or-lower](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0888-fair-candy-swap](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0888-fair-candy-swap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -888,4 +889,8 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0455-assign-cookies) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
