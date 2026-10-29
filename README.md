@@ -465,6 +465,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0332-reconstruct-itinerary](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0897-increasing-order-search-tree) |
 | [1254-number-of-closed-islands](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
@@ -594,6 +595,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0394-decode-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0856-score-of-parentheses) |
+| [0897-increasing-order-search-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -691,6 +693,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0199-binary-tree-right-side-view](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0897-increasing-order-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -707,6 +710,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0199-binary-tree-right-side-view](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0897-increasing-order-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
@@ -868,6 +872,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0096-unique-binary-search-trees) |
+| [0897-increasing-order-search-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0897-increasing-order-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Euclidean Algorithm
 |  |
