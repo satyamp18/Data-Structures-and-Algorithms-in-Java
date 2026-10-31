@@ -313,6 +313,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [0811-subdomain-visit-count](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0811-subdomain-visit-count) |
+| [0824-goat-latin](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0824-goat-latin) |
 | [0856-score-of-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
