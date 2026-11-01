@@ -16,6 +16,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0343-integer-break](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0343-integer-break) |
 | [0382-linked-list-random-node](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
@@ -96,6 +97,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0494-target-sum) |
