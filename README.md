@@ -263,6 +263,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0208-implement-trie-prefix-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0500-keyboard-row) |
@@ -308,6 +309,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0208-implement-trie-prefix-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0208-implement-trie-prefix-tree) |
 | [0273-integer-to-english-words](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0282-expression-add-operators) |
+| [0299-bulls-and-cows](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0332-reconstruct-itinerary) |
@@ -590,6 +592,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Counting Sort
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0594-longest-harmonious-subsequence) |
