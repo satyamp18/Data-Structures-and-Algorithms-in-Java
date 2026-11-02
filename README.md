@@ -18,6 +18,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0412-fizz-buzz](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0458-poor-pigs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [0587-erect-the-fence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0587-erect-the-fence) |
@@ -99,6 +100,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0495-teemo-attacking) |
@@ -226,6 +228,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0406-queue-reconstruction-by-height](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0594-longest-harmonious-subsequence) |
