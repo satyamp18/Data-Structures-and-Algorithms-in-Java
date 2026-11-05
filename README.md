@@ -15,6 +15,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0282-expression-add-operators](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0282-expression-add-operators) |
 | [0343-integer-break](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0343-integer-break) |
 | [0382-linked-list-random-node](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0458-poor-pigs) |
@@ -272,6 +273,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0347-top-k-frequent-elements) |
+| [0398-random-pick-index](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0398-random-pick-index) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0594-longest-harmonious-subsequence) |
@@ -714,10 +716,12 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0398-random-pick-index) |
 ## Tree
 |  |
 | ------- |
