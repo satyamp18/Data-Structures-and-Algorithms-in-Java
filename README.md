@@ -131,6 +131,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [1288-remove-covered-intervals](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1406-stone-game-iii) |
@@ -242,6 +243,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [1096-brace-expansion-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -461,6 +463,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0374-guess-number-higher-or-lower](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0888-fair-candy-swap](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0888-fair-candy-swap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -579,6 +582,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0143-reorder-list](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
