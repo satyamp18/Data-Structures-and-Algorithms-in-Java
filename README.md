@@ -92,6 +92,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0239-sliding-window-maximum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0332-reconstruct-itinerary](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0332-reconstruct-itinerary) |
@@ -459,6 +460,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0374-guess-number-higher-or-lower](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -524,6 +526,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0115-distinct-subsequences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0115-distinct-subsequences) |
 | [0221-maximal-square](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0312-burst-balloons) |
 | [0343-integer-break](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0343-integer-break) |
 | [0458-poor-pigs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0458-poor-pigs) |
@@ -938,4 +941,8 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3620-network-recovery-pathways) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
