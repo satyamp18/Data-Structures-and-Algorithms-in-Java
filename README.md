@@ -130,6 +130,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [1140-stone-game-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1331-rank-transform-of-an-array) |
@@ -400,6 +401,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
 | [1096-brace-expansion-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3310-remove-methods-from-project) |
@@ -440,6 +442,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0867-transpose-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -489,6 +492,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
 | [1254-number-of-closed-islands](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -506,6 +510,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0543-diameter-of-binary-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0897-increasing-order-search-tree) |
 | [1254-number-of-closed-islands](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3310-remove-methods-from-project) |
@@ -621,6 +626,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0594-longest-harmonious-subsequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0811-subdomain-visit-count](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0811-subdomain-visit-count) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1267-count-servers-that-communicate](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3312-sorted-gcd-pair-queries) |
