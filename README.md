@@ -142,6 +142,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -426,6 +427,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0347-top-k-frequent-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1882-process-tasks-using-servers) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -614,6 +616,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0498-diagonal-traverse](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1260-shift-2d-grid) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -813,6 +816,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0699-falling-squares](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0699-falling-squares) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Monotonic Queue
 |  |
