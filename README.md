@@ -123,6 +123,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0697-degree-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0697-degree-of-an-array) |
 | [0699-falling-squares](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0699-falling-squares) |
+| [0721-accounts-merge](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0721-accounts-merge) |
 | [0811-subdomain-visit-count](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0811-subdomain-visit-count) |
 | [0835-image-overlap](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0867-transpose-matrix) |
@@ -249,6 +250,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0594-longest-harmonious-subsequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0721-accounts-merge) |
 | [0888-fair-candy-swap](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0888-fair-candy-swap) |
 | [1096-brace-expansion-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1288-remove-covered-intervals) |
@@ -288,6 +290,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0594-longest-harmonious-subsequence](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0697-degree-of-an-array) |
+| [0721-accounts-merge](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0721-accounts-merge) |
 | [0811-subdomain-visit-count](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0811-subdomain-visit-count) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0888-fair-candy-swap) |
@@ -343,6 +346,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0539-minimum-time-difference](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0539-minimum-time-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0721-accounts-merge) |
 | [0811-subdomain-visit-count](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0811-subdomain-visit-count) |
 | [0824-goat-latin](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0824-goat-latin) |
 | [0856-score-of-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0856-score-of-parentheses) |
@@ -405,6 +409,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0279-perfect-squares](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0721-accounts-merge) |
 | [1096-brace-expansion-ii](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1267-count-servers-that-communicate) |
@@ -498,6 +503,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0721-accounts-merge) |
 | [1254-number-of-closed-islands](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -515,6 +521,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0332-reconstruct-itinerary](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0721-accounts-merge) |
 | [0897-increasing-order-search-tree](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0897-increasing-order-search-tree) |
 | [1254-number-of-closed-islands](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1267-count-servers-that-communicate) |
