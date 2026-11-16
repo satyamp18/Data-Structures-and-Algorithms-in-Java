@@ -9,6 +9,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | [0029-divide-two-integers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0029-divide-two-integers) |
 | [0096-unique-binary-search-trees](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0149-max-points-on-a-line) |
+| [0231-power-of-two](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0279-perfect-squares) |
@@ -69,6 +70,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0461-hamming-distance) |
 | [1386-cinema-seat-allocation](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/1386-cinema-seat-allocation) |
@@ -482,6 +484,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 | ------- |
 | [0143-reorder-list](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0394-decode-string) |
