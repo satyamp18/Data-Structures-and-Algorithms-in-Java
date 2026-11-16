@@ -7,6 +7,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0231-power-of-two) |
@@ -482,6 +483,7 @@ A comprehensive repository of Data Structures and Algorithms (DSA) problems impl
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/satyamp18/Data-Structures-and-Algorithms-in-Java/tree/master/0231-power-of-two) |
